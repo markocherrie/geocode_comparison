@@ -1,2 +1,2 @@
 # geocode_comparison
-Compares Google, Bing, Mapquest and Nomatim and displays them on a leaflet map
+Rshiny app that compares the geocoded location, displayed on a leaflet map, of a search string using Google, Bing, Mapquest and Nomatim 
